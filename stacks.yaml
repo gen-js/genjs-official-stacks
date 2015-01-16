@@ -1,5 +1,7 @@
 springmvc-springdatajpa:
+  name:
+    Spring MVC & Spring Data JPA
   description:
-    Spring MVC
+    Stack on Spring MVC and Spring Data JPA
   bundles:
     - sql-postgresql
