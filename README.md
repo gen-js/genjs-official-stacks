@@ -1,2 +1,3 @@
-# genjs-official-stacks
-GenJS official stacks
+# GenJS official stacks
+
+Official stacks for GenJS.
