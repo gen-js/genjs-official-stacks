@@ -1,0 +1,5 @@
+springmvc-springdatajpa:
+  description:
+    Spring MVC
+  bundles:
+    - sql-postgresql
